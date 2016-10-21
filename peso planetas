@@ -19,7 +19,7 @@
 
    var gravedad_tierra = 9.8;
    var gravedad_marte = 3.7;
-   var gravedad_jupiter = 22.9;
+   var gravedad_jupiter = 24.7;
    var gravedad_venus = 8.8;
    var gravedad_Mercurio = 3.7;
 
